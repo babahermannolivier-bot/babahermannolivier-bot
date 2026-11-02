@@ -35,5 +35,13 @@ Securely deploy containerized workloads across AWS and Azure using Zero-Trust pr
 4.  **Threat Prevention**
     - Palo Alto Next-Gen Firewall policies
     - East-West traffic inspection in Kubernetes
+    - 
+### 📌 Project Status
+- [x] Draft Architecture & Research
+- [x] Initial IaC Scaffold (AWS EKS, Azure AKS)
+- [x] Docker Hardening Baseline
+- [x] Prisma Cloud CNAPP Policy Draft
+- [ ] Awaiting Formal Approval from Supervisor
+- [ ] Full Implementation & Testing (Post-Approval)
 
-### 📊 Diagram
+> Note: This repository currently contains the proposal scaffold and security baselines. Full deployment will commence upon approval.
