@@ -1,6 +1,7 @@
-# Multi-Cloud Zero-Trust Secure Deployment of Docker Containers in Azure and AWS Using Prisma Cloud Compute and SASE — CNAPP and ZTNA Implementation
+#[PROPOSED]  Multi-Cloud Zero-Trust Secure Deployment of Docker Containers in Azure and AWS Using Prisma Cloud Compute and SASE — CNAPP and ZTNA Implementation
 
-> Final MSc Project | Applied Cybersecurity & Cloud Technology — London Metropolitan University
+> **Statuts:** Proposed MSc Final Project-Awaiting Lecturer Approval
+> **Programme: MSc Applied Cybersecurity(Palo Alto) & Cloud Technology — London Metropolitan University
 
 ### 🎯 Objective
 Securely deploy containerized workloads across AWS and Azure using Zero-Trust principles, enforced by Palo Alto Prisma Cloud Compute (CNAPP) and Prisma SASE with ZTNA.
